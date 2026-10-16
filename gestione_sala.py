@@ -21,7 +21,7 @@ def crea_sala():
 def mostra_sala(sala):
     ''' Mostra su terminale l'attuale disposizione della sala
 
-    @sala lista di liste contente lo stato occupazionale della sala
+    @sala lista di liste contenente lo stato occupazionale della sala
     '''
     print("\n========= SALA CINEMA PARADISO ========")
     print("      ", end="")
